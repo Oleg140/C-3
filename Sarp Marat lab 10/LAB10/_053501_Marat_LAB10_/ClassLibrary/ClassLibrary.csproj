@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\_053502_GERCHIK_LAB10_\_053502_GERCHIK_LAB10_.csproj" />
+    </ItemGroup>
+
+</Project>
